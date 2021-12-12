@@ -1,6 +1,6 @@
-<h1>Proyecto final ciclo 4 - Desarrollo Movil</h1>
+<h1>Proyecto final ciclo 4 - Desarrollo Movil (DM36)</h1>
 <h2>Tienda virtual D&eacute;lices don chucho</h2>
-<h3>Integrantes</h3>
+<h3>Integrantes (Grupo 6)</h3>
 <ul>
   <li>Andres Felipe Wilches Torres</li>
   <li>Juan David Montes Martinez</li>
