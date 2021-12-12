@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Delices Don Chucho</string>
+    <string name="Bienvenido">Iniciar Sesión</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Correo">Correo</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Password">Password</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="Imagen">Imagen</string>
+    <string name="Cerrar_Sesión">Cerrar Sesión</string>
+    <string name="Categorias">Categorías</string>
+    <string name="Texto1">CÓCTELES
+        Bebida alcoholica elaborada artesanalmente a base de caña, anis y pulpa de fruta</string>
+    <string name="Texto2">CHOCOLATES
+        Chocolates en forma de frutas rellenos de nuestros deliciosos licores </string>
+    <string name="Texto3">CREMAS
+        Bebida alcoholica en crema elaborada artesanalmente a base de caña, anis y frutas de la región Tolimense</string>
+    <string name="Volver">Volver</string>
+    <string name="Codigo">Codigo</string>
+    <string name="TexCodigo">Ingresar Codigo</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Nombre_Producto">Nombre de Producto</string>
+    <string name="Valor">Valor</string>
+    <string name="TexValor">Ingrese Valor</string>
+    <string name="Buscar">Buscar</string>
+    <string name="Agregar">Agregar</string>
+    <string name="Modificar">Modificar</string>
+    <string name="Eliminar">Eliminar</string>
+    <string name="Texto4"></string>
+    <string name="Texto5"></string>
+</resources>
