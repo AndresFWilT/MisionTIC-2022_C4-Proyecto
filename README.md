@@ -1,5 +1,5 @@
 <h1>Proyecto final ciclo 4 - Desarrollo Movil</h1>
-<h2>Tienda virtual D&eacuet;lices don chucho</h2>
+<h2>Tienda virtual D&eacute;lices don chucho</h2>
 <h3>Integrantes</h3>
 <ul>
   <li>Andres Felipe Wilches Torres</li>
